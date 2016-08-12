@@ -1,0 +1,120 @@
+<html>
+  <head>
+    <!-- https://www.google.com/fonts -->
+    <link 
+        rel="stylesheet" 
+        type="text/css" 
+        href="http://fonts.googleapis.com/css?family=Roboto|Roboto+Condensed|Raleway|Tinos|Volkhov|Alice" />
+    <link rel="stylesheet" type="text/css" href="main.css" media="screen" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Demo Code</title>
+  </head>
+  <body>
+    <div class="main">
+        <h1>Mike Curtis :: Demo Code</h1>
+        <h2>XML &amp; XSL</h2>
+        <p>
+        The following samples render various XML documents in the browser using XSL and CSS. The 
+        source code for each can be viewed through my GitHub 
+        <a href="https://github.com/mikecurtis1/democode/tree/gh-pages">democode</a> repository.
+        </p>
+        <ul>
+          <li>
+            <a href="DTD/sonnet/sonnet29.xml">Sonnet 29</a>
+            <blockquote>
+            This is one of my favorite Shakespeare sonnets. And what better demonstration of a 
+            document type definition (DTD) than a sonnet? A sonnet isn't just a poem. A sonnet has a 
+            <a href="https://en.wikipedia.org/wiki/Sonnet#English_.28Shakespearean.29_sonnet">well defined structure with formal names</a> for its parts: quatraine, couplet, rhyme scheme etc. I 
+            express these formal elements in my <a href="https://github.com/mikecurtis1/democode/blob/gh-pages/DTD/sonnet/sonnet29.dtd">DTD</a>.
+            </blockquote>
+          </li>
+          <!--
+          <li><a href="XSL/artists/artists.xml">Artists</a></li>
+          -->
+          <!--
+          <li><a href="XSL/external/document.xml">External documents</a></li>
+          -->
+          <li>
+            <a href="XSL/films/films.xml">A short list of films</a>
+            <blockquote>
+            A film description offers an interesting example for a formal document definition. Not 
+            only can a film be described with rich metadata, but that data is often context-specific. 
+            Consider dates. A date associated with a film could describe when the film was 
+            produced or the setting date. Consider awards. Awards can be give to the film - ex. 
+            National Film Registry - or to individual cast and crew members - ex. best cinematography. 
+            This document's definition expresses such detail using optional and implied elements. The XLT 
+            transformation handles proper labeling and punctuation of this optional content. 
+            </blockquote>
+          </li>
+          <li>
+            <a href="XSL/item/item.xml">A library catalog record</a>
+            <blockquote>This document is in <a href="https://www.loc.gov/standards/marcxml/">MaRC XML</a> 
+            format. <a href="https://www.loc.gov/marc/">MaRC</a> is the standard metadata format for 
+            library catalog records and was developed by the Library of Congress. The MaRC metadata 
+            schema is very granular and identifies fields 
+            with alpha-numeric codes. This document is styled so that the data column has an approximately 
+            50 character measure for readability.</blockquote>
+          </li>
+          <li>
+            <a href="XSL/top_100/top_100.xml">Broome Community College Top 100 Books 2008</a>
+            <blockquote>
+            The XML of this sample is a report from Aleph - a popular 
+            library catalog system. The results contain 355 books with high usage, but the
+            report did not have options for limiting the results to 100 or sorting. Librarians 
+            often open these XML reports in MS Excel 
+            and tweak them for presentation. But, in 
+            this case I created an XSL transformation to perform the sort and limit the 
+            list to 100 items. Cover 
+            images come from the Google Books API based 
+            on ISBN's found in the report data.
+            </blockquote>
+          </li>
+          <li>
+            <a href="XSL/upstate/150.mets.xml">Upstate Medical University METS record</a>
+            <blockquote>
+            Metadata Encode and Transmission Standard (<a href="http://www.loc.gov/standards/mets/">METS</a>) 
+            is a standard maintained by the Library of Congress 
+            and is commonly used in digital libraries and archives. METS documents are encoded with a  
+            namespace and often include other metadata schemata such as MODS and Dublin Core. This 
+            sample simply lists each datum with its element name and any relevant modifier attributes.
+            </blockquote>
+          </li>
+          <li>
+            <a href="XSL/EAD/loc1.ead.xml">Mildred Davenport Dance Programs EAD Finding Aid</a>
+            <blockquote>
+            Encoded Archival Description (<a href="http://www.loc.gov/ead/index.html">EAD</a>) 
+            is another standard maintained by the Library of Congress. It is used to create inventories 
+            of archival materials. The EAD schema includes 146 elements many of which are 
+            optional and can be nested. The flexibility of the schema presents a challenge when 
+            displaying documents, as they can be long and complex. For this demo 
+            I created a rendering that works for any EAD document. XSL is used to 
+            transform all elements to nested HTML divs while jQuery <em class="code">.toggle()</em> is used to 
+            animate the display as a collapsable tree. In practice it is probably best to 
+            render individual EAD documents with custom stylesheets, but this 
+            example demonstrates a quick way to display any EAD document.
+            </blockquote>
+          </li>
+        </ul>
+    </div>
+    <!-- https://www.iconfinder.com -->
+    <div class="bottom">
+        <div class="left">
+            <span class="email"><img class="mail" src="svg/mail.svg" /><a href="mailto:mikecurtis1@gmail.com">mikecurtis1@gmail.com</a></span>
+        </div>
+        <div class="right">
+          <span class="icon github"><a href="https://github.com/mikecurtis1"><img class="github" src="svg/github.svg" /></a></span>
+          <span class="icon goodreads"><a href="https://www.goodreads.com/user/show/23239553-michael-curtis"><img class="goodreads" src="svg/goodreads.svg" /></a></span>
+          <span class="icon linkedin"><a href="https://www.linkedin.com/in/curtismi"><img class="linkedin" src="svg/linkedin.svg" /></a></span>
+          <span class="icon stackoverflow"><a href="http://stackoverflow.com/users/4223423/michael-curtis"><img class="stackoverflow" src="svg/stackoverflow.svg" /></a></span>
+        </div>
+        <div class="clear"></div>
+        <!--
+        <ul>
+            <li>Email me at </li>
+            <li>Connect through <a href="https://www.linkedin.com/in/curtismi">LinkedIn</a></li>
+            <li>View my respositories on <a href="https://github.com/mikecurtis1">GitHub</a></li>
+        </ul>
+        -->
+    </div>
+  </body>
+</html>
