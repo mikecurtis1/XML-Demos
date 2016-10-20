@@ -1,0 +1,594 @@
+<?xml version="1.0" ?> 
+<printout>
+<form-name>loan-receipt</form-name> 
+<form-language>ENG</form-language> 
+<form-format>00</form-format> 
+<subject>Loan Receipt</subject> 
+<email-address>curtismi@upstate.edu</email-address> 
+<plain-html>L</plain-html> 
+<section-01>
+<form-date>10/20/2016</form-date> 
+<sub-library-address-1-occ1>Health Sciences Library</sub-library-address-1-occ1> 
+<sub-library-address-1-occ2>SUNY Upstate Medical University</sub-library-address-1-occ2> 
+<sub-library-address-1-occ3>766 Irving Ave.</sub-library-address-1-occ3> 
+<sub-library-address-1-occ4>Syracuse, NY 13210</sub-library-address-1-occ4> 
+<sub-library-address-1-occ5>315/464-7091</sub-library-address-1-occ5> 
+<sub-library-address-1-occ6 /> 
+<sub-library-address-1-occ7 /> 
+<sub-library-address-1-occ8 /> 
+<sub-library-address-1-occ9 /> 
+<sub-library-address-1-occ10 /> 
+<email-address>curtismi@upstate.edu</email-address> 
+<plain-html>L</plain-html> 
+<z302-key-01>02803100303531</z302-key-01> 
+<z302-key-50>86866</z302-key-50> 
+<z302-id>UPS000012270</z302-id> 
+<z302-proxy-for-id /> 
+<z302-primary-id /> 
+<z302-name-key>curtis michael c UPS000012270</z302-name-key> 
+<z302-user-type /> 
+<z302-user-library>UPS50</z302-user-library> 
+<z302-open-date>09/02/2010</z302-open-date> 
+<z302-update-date>06/26/2012</z302-update-date> 
+<z302-con-lng>ENG</z302-con-lng> 
+<z302-alpha>L</z302-alpha> 
+<z302-name>Curtis, Michael C.</z302-name> 
+<z302-title /> 
+<z302-delinq-1>00</z302-delinq-1> 
+<z302-delinq-n-1 /> 
+<z302-delinq-1-update-date>20120626</z302-delinq-1-update-date> 
+<z302-delinq-1-cat-name>UPSMN</z302-delinq-1-cat-name> 
+<z302-delinq-2>00</z302-delinq-2> 
+<z302-delinq-n-2 /> 
+<z302-delinq-2-update-date>00000000</z302-delinq-2-update-date> 
+<z302-delinq-2-cat-name /> 
+<z302-delinq-3>00</z302-delinq-3> 
+<z302-delinq-n-3 /> 
+<z302-delinq-3-update-date>00000000</z302-delinq-3-update-date> 
+<z302-delinq-3-cat-name /> 
+<z302-budget /> 
+<z302-profile-id /> 
+<z302-ill-library /> 
+<z302-home-library /> 
+<z302-field-1 /> 
+<z302-field-2 /> 
+<z302-field-3 /> 
+<z302-note-1 /> 
+<z302-note-2 /> 
+<z302-salutation /> 
+<z302-ill-total-limit>9999</z302-ill-total-limit> 
+<z302-ill-active-limit>0100</z302-ill-active-limit> 
+<z302-dispatch-library /> 
+<z302-birth-date /> 
+<z302-export-consent>Y</z302-export-consent> 
+<z302-proxy-id-type>00</z302-proxy-id-type> 
+<z302-send-all-letters>Y</z302-send-all-letters> 
+<z302-plain-html /> 
+<z302-want-sms>N</z302-want-sms> 
+<z302-plif-modification /> 
+<z302-title-req-limit>0000</z302-title-req-limit> 
+<z302-gender /> 
+<z302-birthplace /> 
+<z302-upd-time-stamp>200001011200000</z302-upd-time-stamp> 
+<z302-last-name /> 
+<z302-first-name /> 
+<z302-address-0>Michael C. Curtis</z302-address-0> 
+<z302-address-1>460 South Main Street</z302-address-1> 
+<z302-address-2>North Syracuse, NY 13212</z302-address-2> 
+<z302-zip /> 
+<z302-email-address>curtismi@upstate.edu</z302-email-address> 
+<z302-telephone>607-206-4300</z302-telephone> 
+<z302-telephone-2>315-464-7085</z302-telephone-2> 
+<z302-telephone-3 /> 
+<z302-telephone-4 /> 
+<z302-sms-number /> 
+<z302-salutation-title /> 
+</section-01>
+<section-02>
+<loan-type>REGULAR</loan-type> 
+<bib-info>## Jarvis, D. C.## Folk medicine / by D.C. Jarvis.## New York : Fawcett Crest, 1958.## 044920880X (pbk.)</bib-info> 
+<z13-doc-number>97887</z13-doc-number> 
+<z13-year>1958</z13-year> 
+<z13-open-date>08/04/2016</z13-open-date> 
+<z13-update-date>08/18/2016</z13-update-date> 
+<z13-call-no-key /> 
+<z13-call-no-code>PSZ13</z13-call-no-code> 
+<z13-call-no>Consumer Health WZ 309 J38f 1958 Health+Wellness (1st Floor) - Book Collection</z13-call-no> 
+<z13-author-code>1001</z13-author-code> 
+<z13-author>Jarvis, D. C.</z13-author> 
+<z13-title-code>24510</z13-title-code> 
+<z13-title>Folk medicine / by D.C. Jarvis.</z13-title> 
+<z13-imprint-code>260</z13-imprint-code> 
+<z13-imprint>New York : Fawcett Crest, 1958.</z13-imprint> 
+<z13-isbn-issn-code>020</z13-isbn-issn-code> 
+<z13-isbn-issn>044920880X (pbk.)</z13-isbn-issn> 
+<z13-upd-time-stamp>201608041525021</z13-upd-time-stamp> 
+<z13u-doc-number>000097887</z13u-doc-number> 
+<z13u-user-defined-1-code>PSNBL</z13u-user-defined-1-code> 
+<z13u-user-defined-1>WZ 309 J38f 1958 Upstate Catalog Health+Wellness (1st Floor) - Book Collection</z13u-user-defined-1> 
+<z13u-user-defined-2-code /> 
+<z13u-user-defined-2 /> 
+<z13u-user-defined-3-code>LDR</z13u-user-defined-3-code> 
+<z13u-user-defined-3>^^^^^cam^^2200313Ia^4500</z13u-user-defined-3> 
+<z13u-user-defined-4-code>035</z13u-user-defined-4-code> 
+<z13u-user-defined-4>(OCoLC)15110346</z13u-user-defined-4> 
+<z13u-user-defined-5-code /> 
+<z13u-user-defined-5 /> 
+<z13u-user-defined-6-code /> 
+<z13u-user-defined-6 /> 
+<z13u-user-defined-7-code /> 
+<z13u-user-defined-7 /> 
+<z13u-user-defined-8-code>008</z13u-user-defined-8-code> 
+<z13u-user-defined-8>870124s1958^^^^nyua^^^^^^^^^^000^0^eng^d</z13u-user-defined-8> 
+<z13u-user-defined-9-code>CDCL4</z13u-user-defined-9-code> 
+<z13u-user-defined-9>WZ 309</z13u-user-defined-9> 
+<z13u-user-defined-10-code>SUBLB</z13u-user-defined-10-code> 
+<z13u-user-defined-10>UPSMN</z13u-user-defined-10> 
+<z13u-user-defined-11-code /> 
+<z13u-user-defined-11 /> 
+<z13u-user-defined-12-code /> 
+<z13u-user-defined-12 /> 
+<z13u-user-defined-13-code /> 
+<z13u-user-defined-13 /> 
+<z13u-user-defined-14-code /> 
+<z13u-user-defined-14 /> 
+<z13u-user-defined-15-code /> 
+<z13u-user-defined-15 /> 
+<z36-rec-key>000097940000010</z36-rec-key> 
+<z36-doc-number>000097940</z36-doc-number> 
+<z36-item-sequence>000010</z36-item-sequence> 
+<z36-id>UPS000012270</z36-id> 
+<z36-number>001102387</z36-number> 
+<z36-material>BOOK</z36-material> 
+<z36-sub-library>Upstate Catalog</z36-sub-library> 
+<z36-status>11/10/16</z36-status> 
+<z36-loan-date>10/20/2016</z36-loan-date> 
+<z36-loan-hour>12:52 PM</z36-loan-hour> 
+<z36-effective-due-date>00000000</z36-effective-due-date> 
+<z36-due-date>11/10/2016</z36-due-date> 
+<z36-due-hour>12:52 PM</z36-due-hour> 
+<z36-returned-date /> 
+<z36-returned-hour /> 
+<z36-item-status>03</z36-item-status> 
+<z36-bor-status>Staff</z36-bor-status> 
+<z36-letter-number>0</z36-letter-number> 
+<z36-letter-date /> 
+<z36-no-renewal>0</z36-no-renewal> 
+<z36-note-1 /> 
+<z36-note-2 /> 
+<z36-loan-cataloger-name>UPSMN</z36-loan-cataloger-name> 
+<z36-loan-cataloger-ip>139.127.225.115</z36-loan-cataloger-ip> 
+<z36-return-cataloger-name /> 
+<z36-return-cataloger-ip /> 
+<z36-renew-cataloger-name /> 
+<z36-renew-cataloger-ip /> 
+<z36-renew-mode /> 
+<z36-bor-type>LI</z36-bor-type> 
+<z36-note-alpha /> 
+<z36-recall-date /> 
+<z36-recall-due-date /> 
+<z36-last-renew-date /> 
+<z36-original-due-date>11/10/2016</z36-original-due-date> 
+<z36-process-status /> 
+<z36-loan-type /> 
+<z36-proxy-id /> 
+<z36-recall-type /> 
+<z36-return-location /> 
+<z36-return-sub-location /> 
+<z36-source /> 
+<z36-delivery-time /> 
+<z36-tail-time /> 
+<z36-upd-time-stamp>201610201252550</z36-upd-time-stamp> 
+<z36-loan-cataloger-ip-v6 /> 
+<z36-return-cataloger-ip-v6 /> 
+<z36-renew-cataloger-ip-v6 /> 
+<z30-doc-number>97940</z30-doc-number> 
+<z30-item-sequence>1.0</z30-item-sequence> 
+<z30-barcode>32803002976230</z30-barcode> 
+<z30-sub-library>Upstate Catalog</z30-sub-library> 
+<z30-material>Book</z30-material> 
+<z30-item-status>Reg. Loan-HIC</z30-item-status> 
+<z30-open-date>08/04/2016</z30-open-date> 
+<z30-update-date>08/18/2016</z30-update-date> 
+<z30-cataloger>YOHANAN</z30-cataloger> 
+<z30-date-last-return /> 
+<z30-hour-last-return /> 
+<z30-ip-last-return /> 
+<z30-no-loans>001</z30-no-loans> 
+<z30-alpha>L</z30-alpha> 
+<z30-collection>Health+Wellness (1st Floor) - Book Collection</z30-collection> 
+<z30-call-no-type>2</z30-call-no-type> 
+<z30-call-no>Consumer Health WZ 309 J38f 1958</z30-call-no> 
+<z30-call-no-key>2 wz 309 j38f 1958 consumer health</z30-call-no-key> 
+<z30-call-no-2-type /> 
+<z30-call-no-2 /> 
+<z30-call-no-2-key /> 
+<z30-description /> 
+<z30-note-opac /> 
+<z30-note-circulation /> 
+<z30-note-internal /> 
+<z30-order-number /> 
+<z30-inventory-number /> 
+<z30-inventory-number-date /> 
+<z30-last-shelf-report-date>00000000</z30-last-shelf-report-date> 
+<z30-price /> 
+<z30-shelf-report-number /> 
+<z30-on-shelf-date>00000000</z30-on-shelf-date> 
+<z30-on-shelf-seq>000000</z30-on-shelf-seq> 
+<z30-doc-number-2>000000000</z30-doc-number-2> 
+<z30-schedule-sequence-2>00000</z30-schedule-sequence-2> 
+<z30-copy-sequence-2>00000</z30-copy-sequence-2> 
+<z30-vendor-code /> 
+<z30-invoice-number /> 
+<z30-line-number>00000</z30-line-number> 
+<z30-pages /> 
+<z30-issue-date /> 
+<z30-expected-arrival-date /> 
+<z30-arrival-date /> 
+<z30-item-statistic /> 
+<z30-item-process-status /> 
+<z30-copy-id>1</z30-copy-id> 
+<z30-hol-doc-number>000098544</z30-hol-doc-number> 
+<z30-temp-location>No</z30-temp-location> 
+<z30-enumeration-a /> 
+<z30-enumeration-b /> 
+<z30-enumeration-c /> 
+<z30-enumeration-d /> 
+<z30-enumeration-e /> 
+<z30-enumeration-f /> 
+<z30-enumeration-g /> 
+<z30-enumeration-h /> 
+<z30-chronological-i /> 
+<z30-chronological-j /> 
+<z30-chronological-k /> 
+<z30-chronological-l /> 
+<z30-chronological-m /> 
+<z30-supp-index-o /> 
+<z30-85x-type /> 
+<z30-depository-id /> 
+<z30-linking-number>000000000</z30-linking-number> 
+<z30-gap-indicator /> 
+<z30-maintenance-count>001</z30-maintenance-count> 
+<z30-process-status-date>08/04/2016</z30-process-status-date> 
+<z30-upd-time-stamp>201610201252550</z30-upd-time-stamp> 
+<z30-ip-last-return-v6 /> 
+</section-02>
+<section-02>
+<loan-type>REGULAR</loan-type> 
+<bib-info>## Jarvis, D. C.## Folk medicine.## [Place of publication not identified] : Read Books, 2012.## 1447446372 (pbk.)</bib-info> 
+<z13-doc-number>97885</z13-doc-number> 
+<z13-year>2012</z13-year> 
+<z13-open-date>08/04/2016</z13-open-date> 
+<z13-update-date>08/18/2016</z13-update-date> 
+<z13-call-no-key /> 
+<z13-call-no-code>PSZ13</z13-call-no-code> 
+<z13-call-no>Consumer Health WZ 309 J38fo 2012 Health+Wellness (1st Floor) - Book Collection</z13-call-no> 
+<z13-author-code>1001</z13-author-code> 
+<z13-author>Jarvis, D. C.</z13-author> 
+<z13-title-code>24510</z13-title-code> 
+<z13-title>Folk medicine.</z13-title> 
+<z13-imprint-code>260</z13-imprint-code> 
+<z13-imprint>[Place of publication not identified] : Read Books, 2012.</z13-imprint> 
+<z13-isbn-issn-code>020</z13-isbn-issn-code> 
+<z13-isbn-issn>1447446372 (pbk.)</z13-isbn-issn> 
+<z13-upd-time-stamp>201608041525014</z13-upd-time-stamp> 
+<z13u-doc-number>000097885</z13u-doc-number> 
+<z13u-user-defined-1-code>PSNBL</z13u-user-defined-1-code> 
+<z13u-user-defined-1>WZ 309 J38fo 2012 Upstate Catalog Health+Wellness (1st Floor) - Book Collection</z13u-user-defined-1> 
+<z13u-user-defined-2-code /> 
+<z13u-user-defined-2 /> 
+<z13u-user-defined-3-code>LDR</z13u-user-defined-3-code> 
+<z13u-user-defined-3>^^^^^cam^^22002653^^4500</z13u-user-defined-3> 
+<z13u-user-defined-4-code>035</z13u-user-defined-4-code> 
+<z13u-user-defined-4>(OCoLC)936121699</z13u-user-defined-4> 
+<z13u-user-defined-5-code /> 
+<z13u-user-defined-5 /> 
+<z13u-user-defined-6-code /> 
+<z13u-user-defined-6 /> 
+<z13u-user-defined-7-code /> 
+<z13u-user-defined-7 /> 
+<z13u-user-defined-8-code>008</z13u-user-defined-8-code> 
+<z13u-user-defined-8>150921s2012^^^^xx^^^^^^^^^^^^000^0^eng^d</z13u-user-defined-8> 
+<z13u-user-defined-9-code>CDCL5</z13u-user-defined-9-code> 
+<z13u-user-defined-9>WZ 309</z13u-user-defined-9> 
+<z13u-user-defined-10-code>SUBLB</z13u-user-defined-10-code> 
+<z13u-user-defined-10>UPSMN</z13u-user-defined-10> 
+<z13u-user-defined-11-code /> 
+<z13u-user-defined-11 /> 
+<z13u-user-defined-12-code /> 
+<z13u-user-defined-12 /> 
+<z13u-user-defined-13-code /> 
+<z13u-user-defined-13 /> 
+<z13u-user-defined-14-code /> 
+<z13u-user-defined-14 /> 
+<z13u-user-defined-15-code /> 
+<z13u-user-defined-15 /> 
+<z36-rec-key>000097938000010</z36-rec-key> 
+<z36-doc-number>000097938</z36-doc-number> 
+<z36-item-sequence>000010</z36-item-sequence> 
+<z36-id>UPS000012270</z36-id> 
+<z36-number>001102388</z36-number> 
+<z36-material>BOOK</z36-material> 
+<z36-sub-library>Upstate Catalog</z36-sub-library> 
+<z36-status>11/10/16</z36-status> 
+<z36-loan-date>10/20/2016</z36-loan-date> 
+<z36-loan-hour>12:52 PM</z36-loan-hour> 
+<z36-effective-due-date>00000000</z36-effective-due-date> 
+<z36-due-date>11/10/2016</z36-due-date> 
+<z36-due-hour>12:52 PM</z36-due-hour> 
+<z36-returned-date /> 
+<z36-returned-hour /> 
+<z36-item-status>03</z36-item-status> 
+<z36-bor-status>Staff</z36-bor-status> 
+<z36-letter-number>0</z36-letter-number> 
+<z36-letter-date /> 
+<z36-no-renewal>0</z36-no-renewal> 
+<z36-note-1 /> 
+<z36-note-2 /> 
+<z36-loan-cataloger-name>UPSMN</z36-loan-cataloger-name> 
+<z36-loan-cataloger-ip>139.127.225.115</z36-loan-cataloger-ip> 
+<z36-return-cataloger-name /> 
+<z36-return-cataloger-ip /> 
+<z36-renew-cataloger-name /> 
+<z36-renew-cataloger-ip /> 
+<z36-renew-mode /> 
+<z36-bor-type>LI</z36-bor-type> 
+<z36-note-alpha /> 
+<z36-recall-date /> 
+<z36-recall-due-date /> 
+<z36-last-renew-date /> 
+<z36-original-due-date>11/10/2016</z36-original-due-date> 
+<z36-process-status /> 
+<z36-loan-type /> 
+<z36-proxy-id /> 
+<z36-recall-type /> 
+<z36-return-location /> 
+<z36-return-sub-location /> 
+<z36-source /> 
+<z36-delivery-time /> 
+<z36-tail-time /> 
+<z36-upd-time-stamp>201610201252579</z36-upd-time-stamp> 
+<z36-loan-cataloger-ip-v6 /> 
+<z36-return-cataloger-ip-v6 /> 
+<z36-renew-cataloger-ip-v6 /> 
+<z30-doc-number>97938</z30-doc-number> 
+<z30-item-sequence>1.0</z30-item-sequence> 
+<z30-barcode>32803002976222</z30-barcode> 
+<z30-sub-library>Upstate Catalog</z30-sub-library> 
+<z30-material>Book</z30-material> 
+<z30-item-status>Reg. Loan-HIC</z30-item-status> 
+<z30-open-date>08/04/2016</z30-open-date> 
+<z30-update-date>08/18/2016</z30-update-date> 
+<z30-cataloger>YOHANAN</z30-cataloger> 
+<z30-date-last-return /> 
+<z30-hour-last-return /> 
+<z30-ip-last-return /> 
+<z30-no-loans>001</z30-no-loans> 
+<z30-alpha>L</z30-alpha> 
+<z30-collection>Health+Wellness (1st Floor) - Book Collection</z30-collection> 
+<z30-call-no-type>2</z30-call-no-type> 
+<z30-call-no>Consumer Health WZ 309 J38fo 2012</z30-call-no> 
+<z30-call-no-key>2 wz 309 j38fo 2012 consumer health</z30-call-no-key> 
+<z30-call-no-2-type /> 
+<z30-call-no-2 /> 
+<z30-call-no-2-key /> 
+<z30-description /> 
+<z30-note-opac /> 
+<z30-note-circulation /> 
+<z30-note-internal /> 
+<z30-order-number /> 
+<z30-inventory-number /> 
+<z30-inventory-number-date /> 
+<z30-last-shelf-report-date>00000000</z30-last-shelf-report-date> 
+<z30-price /> 
+<z30-shelf-report-number /> 
+<z30-on-shelf-date>00000000</z30-on-shelf-date> 
+<z30-on-shelf-seq>000000</z30-on-shelf-seq> 
+<z30-doc-number-2>000000000</z30-doc-number-2> 
+<z30-schedule-sequence-2>00000</z30-schedule-sequence-2> 
+<z30-copy-sequence-2>00000</z30-copy-sequence-2> 
+<z30-vendor-code /> 
+<z30-invoice-number /> 
+<z30-line-number>00000</z30-line-number> 
+<z30-pages /> 
+<z30-issue-date /> 
+<z30-expected-arrival-date /> 
+<z30-arrival-date /> 
+<z30-item-statistic /> 
+<z30-item-process-status /> 
+<z30-copy-id>1</z30-copy-id> 
+<z30-hol-doc-number>000098542</z30-hol-doc-number> 
+<z30-temp-location>No</z30-temp-location> 
+<z30-enumeration-a /> 
+<z30-enumeration-b /> 
+<z30-enumeration-c /> 
+<z30-enumeration-d /> 
+<z30-enumeration-e /> 
+<z30-enumeration-f /> 
+<z30-enumeration-g /> 
+<z30-enumeration-h /> 
+<z30-chronological-i /> 
+<z30-chronological-j /> 
+<z30-chronological-k /> 
+<z30-chronological-l /> 
+<z30-chronological-m /> 
+<z30-supp-index-o /> 
+<z30-85x-type /> 
+<z30-depository-id /> 
+<z30-linking-number>000000000</z30-linking-number> 
+<z30-gap-indicator /> 
+<z30-maintenance-count>001</z30-maintenance-count> 
+<z30-process-status-date>08/04/2016</z30-process-status-date> 
+<z30-upd-time-stamp>201610201252580</z30-upd-time-stamp> 
+<z30-ip-last-return-v6 /> 
+</section-02>
+<section-02>
+<loan-type>REGULAR</loan-type> 
+<bib-info>## Martin, Pat## On the other side of the bed pan / Pat Martin.## United States : Xlibris Corporation, 2008.## 143638219X</bib-info> 
+<z13-doc-number>89390</z13-doc-number> 
+<z13-year>2008</z13-year> 
+<z13-open-date>06/08/2010</z13-open-date> 
+<z13-update-date>06/08/2010</z13-update-date> 
+<z13-call-no-key /> 
+<z13-call-no-code>PSZ13</z13-call-no-code> 
+<z13-call-no>Consumer Health WZ 112.5 N8 M382o 2008 Health+Wellness (1st Floor) - Book Collection</z13-call-no> 
+<z13-author-code>1001</z13-author-code> 
+<z13-author>Martin, Pat</z13-author> 
+<z13-title-code>24500</z13-title-code> 
+<z13-title>On the other side of the bed pan / Pat Martin.</z13-title> 
+<z13-imprint-code>260</z13-imprint-code> 
+<z13-imprint>United States : Xlibris Corporation, 2008.</z13-imprint> 
+<z13-isbn-issn-code>020</z13-isbn-issn-code> 
+<z13-isbn-issn>143638219X</z13-isbn-issn> 
+<z13-upd-time-stamp>201606281146111</z13-upd-time-stamp> 
+<z13u-doc-number>000089390</z13u-doc-number> 
+<z13u-user-defined-1-code>PSNBL</z13u-user-defined-1-code> 
+<z13u-user-defined-1>WZ 112.5 N8 M382o 2008 Upstate Catalog Health+Wellness (1st Floor) - Book Collection</z13u-user-defined-1> 
+<z13u-user-defined-2-code /> 
+<z13u-user-defined-2 /> 
+<z13u-user-defined-3-code>LDR</z13u-user-defined-3-code> 
+<z13u-user-defined-3>^^^^^nam^^2200289Ka^4500</z13u-user-defined-3> 
+<z13u-user-defined-4-code>035</z13u-user-defined-4-code> 
+<z13u-user-defined-4>(OCoLC)302388849</z13u-user-defined-4> 
+<z13u-user-defined-5-code /> 
+<z13u-user-defined-5 /> 
+<z13u-user-defined-6-code /> 
+<z13u-user-defined-6 /> 
+<z13u-user-defined-7-code /> 
+<z13u-user-defined-7 /> 
+<z13u-user-defined-8-code>008</z13u-user-defined-8-code> 
+<z13u-user-defined-8>090210s2008^^^^nyua^^^^^^^^^^000^0^eng^d</z13u-user-defined-8> 
+<z13u-user-defined-9-code>CDCL5</z13u-user-defined-9-code> 
+<z13u-user-defined-9>WZ 112.5 N8</z13u-user-defined-9> 
+<z13u-user-defined-10-code>SUBLB</z13u-user-defined-10-code> 
+<z13u-user-defined-10>UPSMN</z13u-user-defined-10> 
+<z13u-user-defined-11-code /> 
+<z13u-user-defined-11 /> 
+<z13u-user-defined-12-code /> 
+<z13u-user-defined-12 /> 
+<z13u-user-defined-13-code /> 
+<z13u-user-defined-13 /> 
+<z13u-user-defined-14-code /> 
+<z13u-user-defined-14 /> 
+<z13u-user-defined-15-code /> 
+<z13u-user-defined-15 /> 
+<z36-rec-key>000089401000010</z36-rec-key> 
+<z36-doc-number>000089401</z36-doc-number> 
+<z36-item-sequence>000010</z36-item-sequence> 
+<z36-id>UPS000012270</z36-id> 
+<z36-number>001102390</z36-number> 
+<z36-material>BOOK</z36-material> 
+<z36-sub-library>Upstate Catalog</z36-sub-library> 
+<z36-status>11/10/16</z36-status> 
+<z36-loan-date>10/20/2016</z36-loan-date> 
+<z36-loan-hour>12:53 PM</z36-loan-hour> 
+<z36-effective-due-date>00000000</z36-effective-due-date> 
+<z36-due-date>11/10/2016</z36-due-date> 
+<z36-due-hour>12:53 PM</z36-due-hour> 
+<z36-returned-date /> 
+<z36-returned-hour /> 
+<z36-item-status>03</z36-item-status> 
+<z36-bor-status>Staff</z36-bor-status> 
+<z36-letter-number>0</z36-letter-number> 
+<z36-letter-date /> 
+<z36-no-renewal>0</z36-no-renewal> 
+<z36-note-1 /> 
+<z36-note-2 /> 
+<z36-loan-cataloger-name>UPSMN</z36-loan-cataloger-name> 
+<z36-loan-cataloger-ip>139.127.225.115</z36-loan-cataloger-ip> 
+<z36-return-cataloger-name /> 
+<z36-return-cataloger-ip /> 
+<z36-renew-cataloger-name /> 
+<z36-renew-cataloger-ip /> 
+<z36-renew-mode /> 
+<z36-bor-type>LI</z36-bor-type> 
+<z36-note-alpha /> 
+<z36-recall-date /> 
+<z36-recall-due-date /> 
+<z36-last-renew-date /> 
+<z36-original-due-date>11/10/2016</z36-original-due-date> 
+<z36-process-status /> 
+<z36-loan-type /> 
+<z36-proxy-id /> 
+<z36-recall-type /> 
+<z36-return-location /> 
+<z36-return-sub-location /> 
+<z36-source /> 
+<z36-delivery-time /> 
+<z36-tail-time /> 
+<z36-upd-time-stamp>201610201253227</z36-upd-time-stamp> 
+<z36-loan-cataloger-ip-v6 /> 
+<z36-return-cataloger-ip-v6 /> 
+<z36-renew-cataloger-ip-v6 /> 
+<z30-doc-number>89401</z30-doc-number> 
+<z30-item-sequence>1.0</z30-item-sequence> 
+<z30-barcode>32803002840402</z30-barcode> 
+<z30-sub-library>Upstate Catalog</z30-sub-library> 
+<z30-material>Book</z30-material> 
+<z30-item-status>Reg. Loan-HIC</z30-item-status> 
+<z30-open-date>06/22/2009</z30-open-date> 
+<z30-update-date>06/08/2010</z30-update-date> 
+<z30-cataloger>YOHANAN</z30-cataloger> 
+<z30-date-last-return /> 
+<z30-hour-last-return /> 
+<z30-ip-last-return /> 
+<z30-no-loans>001</z30-no-loans> 
+<z30-alpha>L</z30-alpha> 
+<z30-collection>Health+Wellness (1st Floor) - Book Collection</z30-collection> 
+<z30-call-no-type>2</z30-call-no-type> 
+<z30-call-no>Consumer Health WZ 112.5 N8 M382o 2008</z30-call-no> 
+<z30-call-no-key>2 wz 112.5 n8 m382o 2008 consumer health</z30-call-no-key> 
+<z30-call-no-2-type /> 
+<z30-call-no-2 /> 
+<z30-call-no-2-key /> 
+<z30-description /> 
+<z30-note-opac /> 
+<z30-note-circulation /> 
+<z30-note-internal /> 
+<z30-order-number>89401-1</z30-order-number> 
+<z30-inventory-number /> 
+<z30-inventory-number-date /> 
+<z30-last-shelf-report-date>20120722</z30-last-shelf-report-date> 
+<z30-price /> 
+<z30-shelf-report-number>1</z30-shelf-report-number> 
+<z30-on-shelf-date>00000000</z30-on-shelf-date> 
+<z30-on-shelf-seq>000000</z30-on-shelf-seq> 
+<z30-doc-number-2>000000000</z30-doc-number-2> 
+<z30-schedule-sequence-2>00000</z30-schedule-sequence-2> 
+<z30-copy-sequence-2>00000</z30-copy-sequence-2> 
+<z30-vendor-code /> 
+<z30-invoice-number /> 
+<z30-line-number>00000</z30-line-number> 
+<z30-pages /> 
+<z30-issue-date /> 
+<z30-expected-arrival-date /> 
+<z30-arrival-date /> 
+<z30-item-statistic /> 
+<z30-item-process-status /> 
+<z30-copy-id>1</z30-copy-id> 
+<z30-hol-doc-number>000090405</z30-hol-doc-number> 
+<z30-temp-location>No</z30-temp-location> 
+<z30-enumeration-a /> 
+<z30-enumeration-b /> 
+<z30-enumeration-c /> 
+<z30-enumeration-d /> 
+<z30-enumeration-e /> 
+<z30-enumeration-f /> 
+<z30-enumeration-g /> 
+<z30-enumeration-h /> 
+<z30-chronological-i /> 
+<z30-chronological-j /> 
+<z30-chronological-k /> 
+<z30-chronological-l /> 
+<z30-chronological-m /> 
+<z30-supp-index-o /> 
+<z30-85x-type /> 
+<z30-depository-id /> 
+<z30-linking-number>000000000</z30-linking-number> 
+<z30-gap-indicator /> 
+<z30-maintenance-count>001</z30-maintenance-count> 
+<z30-process-status-date /> 
+<z30-upd-time-stamp>201610201253227</z30-upd-time-stamp> 
+<z30-ip-last-return-v6 /> 
+</section-02>
+</printout>
