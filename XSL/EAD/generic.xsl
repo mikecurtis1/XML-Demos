@@ -19,7 +19,7 @@
             <link 
                 rel="stylesheet" 
                 type="text/css" 
-                href="http://fonts.googleapis.com/css?family=Raleway|Josefin+Slab" />
+                href="https://fonts.googleapis.com/css?family=Raleway|Josefin+Slab" />
         </head>
         <body>
             <h1><xsl:value-of select="//titlestmt/titleproper"/></h1>
