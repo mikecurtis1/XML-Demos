@@ -12,7 +12,7 @@
     <html>
         <head>
             <title><xsl:value-of select="//titlestmt/titleproper"/></title>
-            <script src="http://code.jquery.com/jquery-1.10.2.js"></script>
+            <script src="https://code.jquery.com/jquery-1.10.2.js"></script>
             <script src="generic.js" type="text/javascript"></script>
             <meta name="viewport" content="width=device-width, initial-scale=1" />
             <link rel="stylesheet" type="text/css" href="generic.css" media="screen"/>
